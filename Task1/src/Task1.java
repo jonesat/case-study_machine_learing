@@ -26,14 +26,10 @@ public class Task1 {
 		
 		// ############################################################# VERY IMPORTANT #####################################################################################################
 		// The following string sets the directory that the program will use to find files.
-		String preamble = new String("D:\\Coding\\Java\\Task1\\");
-		// String preamble = new String("C:\\Users\\n6912125\\OneDrive - Queensland University of Technology\\IT Masters (Computer Science)\\Semester 2 - 2022\\IFN645\\Task 1\\");
+		String preamble = new String("C:\\Code\\Java\\Task1\\");		
 		//
 		// Change preamble to your directory with everything stored in it.
 		// ##################################################################################################################################################################################
-		
-		
-
 		
 		String[] convert_files = new String[] {"bank.arff","bank_no.arff","bank_yes.arff"};
 		String[] input_filesAll = new String[] {"bank.txt","bank_no.txt","bank_yes.txt"};

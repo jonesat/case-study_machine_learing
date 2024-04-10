@@ -129,8 +129,7 @@ public class Task3 {
 	public static void main(String[] args)throws Exception {
 		// ############################################################# VERY IMPORTANT #####################################################################################################
 		// The following string sets the directory that the program will use to find files.
-		String preamble = new String("D:\\Coding\\Java\\Task3\\");
-		// String preamble = new String("C:\\Users\\n6912125\\OneDrive - Queensland University of Technology\\IT Masters (Computer Science)\\Semester 2 - 2022\\IFN645\\Task 1\\");
+		String preamble = new String("C:\\Code\\Java\\Task3\\");		
 		//
 		// Change preamble to your directory with everything stored in it.
 		// ##################################################################################################################################################################################
